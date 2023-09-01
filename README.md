@@ -1,6 +1,6 @@
 # FPGA_Basic
 
-## Lab : EGO
+## Lab : EGO1
 #### 1. flash_led
 #### 2. 7 segment display counter
 #### 3. 7 segment display switch control
