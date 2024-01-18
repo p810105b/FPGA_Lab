@@ -2,7 +2,7 @@
 
 ## FPGA: EGO1 - Fast Prototypes of Digital Systems
 
-This repository contains laboratory projects based on the course "Fast Prototypes of Digital Systems" at NCHU. 
+This repository contains laboratory projects based on the course "Fast Prototypes of Digital Systems" at NCHU.
 
 It is specifically designed for the EGO1 FPGA model, showcasing a range of applications and functionalities explored through these projects.
 
@@ -25,3 +25,4 @@ Each lab folder contains Verilog code and XDC files tailored for the EGO1 FPGA. 
 
 ---
 
+Feel free to explore and provide feedback or suggestions!
