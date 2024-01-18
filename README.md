@@ -14,7 +14,9 @@ It is specifically designed for the EGO1 FPGA model, showcasing a range of appli
 - **Lab_5:** Button Debouncing & Data Path
 - **Lab_6:** Static VGA: Display Specific Pattern
 - **Lab_7:** Dynamic VGA: Snake Game
-
+- **Ten_Point_Half:** Press middle button to get a new point As tradional rule of ten point half poker game
+- **Polish_notation:** It is just a PN algorithm implemented in hareware
+    
 Each lab folder contains Verilog code and XDC files tailored for the EGO1 FPGA. For some labs, there are two versions of Verilog code, labeled as 'a' and 'b', which represent different but similar functionalities.
 
 ### Repository Structure
