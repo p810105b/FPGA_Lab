@@ -1,10 +1,11 @@
 # FPGA_Lab
 
-## FPGA : EGO1
+## FPGA: EGO1 - Fast Prototypes of Digital Systems
 
-這裡是關於 EGO1 FPGA 的實驗室項目。每個實驗都旨在探索 FPGA 的不同功能和應用。
+This repository contains laboratory projects based on the course "Fast Prototypes of Digital Systems" at NCHU. 
+It is specifically designed for the EGO1 FPGA model, showcasing a range of applications and functionalities explored through these projects.
 
-### 實驗列表
+### Lab Projects Overview
 
 - **Lab_1:** Flash LED
 - **Lab_2:** 7 Segment Display Counter
@@ -14,8 +15,12 @@
 - **Lab_6:** Static VGA: Display Specific Pattern
 - **Lab_7:** Dynamic VGA: Snake Game
 
-每個實驗都包含了詳細的說明和實施指南。
+Each lab folder contains Verilog code and XDC files tailored for the EGO1 FPGA. For some labs, there are two versions of Verilog code, labeled as 'a' and 'b', which represent different but similar functionalities.
+
+### Repository Structure
+
+- **Verilog Code:** The main programming files written in Verilog for FPGA development.
+- **XDC Files:** Constraint files that configure the pin assignments and other settings for the FPGA.
 
 ---
 
-歡迎提供反饋和建議！
