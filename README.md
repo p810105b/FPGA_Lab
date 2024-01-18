@@ -24,4 +24,3 @@ Each lab folder contains Verilog code and XDC files tailored for the EGO1 FPGA. 
 
 ---
 
-Feel free to explore and provide feedback or suggestions!
