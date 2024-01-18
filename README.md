@@ -6,13 +6,13 @@
 
 ### 實驗列表
 
-- **Lab_1.** Flash LED
-- **Lab_2.** 7 Segment Display Counter
-- **Lab_3.** 7 Segment Display Switch Control
-- **Lab_4.** 7 Segment Display Snake
-- **Lab_5.** Button Debouncing & Data Path
-- **Lab_6.** Static VGA: Display Specific Pattern
-- **Lab_7.** Dynamic VGA: Snake Game
+- **Lab_1:** Flash LED
+- **Lab_2:** 7 Segment Display Counter
+- **Lab_3:** 7 Segment Display Switch Control
+- **Lab_4:** 7 Segment Display Snake
+- **Lab_5:** Button Debouncing & Data Path
+- **Lab_6:** Static VGA: Display Specific Pattern
+- **Lab_7:** Dynamic VGA: Snake Game
 
 每個實驗都包含了詳細的說明和實施指南。
 
